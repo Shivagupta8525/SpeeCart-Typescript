@@ -1,0 +1,21 @@
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+npm error
+npm error While resolving: react-typescript@1.0.0
+npm error Found: vite@3.2.10
+npm error node_modules/vite
+npm error   dev vite@"^3.0.4" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer vite@"^4.0.0 || ^5.0.0" from @storybook/react-vite@8.2.9
+npm error node_modules/@storybook/react-vite
+npm error   dev @storybook/react-vite@"*" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\SHIVA\AppData\Local\npm-cache\_logs\2024-08-24T05_53_30_929Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\SHIVA\AppData\Local\npm-cache\_logs\2024-08-24T05_53_30_929Z-debug-0.log
